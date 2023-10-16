@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Turtle.
+- 👋 Hi, I’m Cristian Fildan (Turtle).
 - 👀 I’m interested in computer vision, machine learning, artificial intelligence and data manipulation.
 - 🌱 I’m currently working in python and java.
 
